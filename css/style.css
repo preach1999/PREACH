@@ -1042,6 +1042,10 @@ a:hover {
   padding-right: 20px;
 }
 
+.body-container{
+  overflow-x: unset;
+  width:100%;
+}
 .widget-tags ul li {
   display: inline-block;
   background-color: #0078ff;
