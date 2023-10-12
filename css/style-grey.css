@@ -886,15 +886,19 @@ a:hover {
   overflow: hidden;
   background-color: #414042;
   border-radius: 4px;
+
 }
 
+.blog-margin{
+  margin-bottom: 10px;
+}
 .card-blog .card-category .category {
   color: #fff;
   display: inline-block;
   text-transform: uppercase;
   font-size: .7rem;
   letter-spacing: .1px;
-  margin-bottom: 0;
+  margin-bottom: 0px;
 }
 
 .card-blog .card-title {
