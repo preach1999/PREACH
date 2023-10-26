@@ -499,7 +499,7 @@ a:hover {
 
 .navbar-b.navbar-trans .nav-link:hover,
 .navbar-b.navbar-reduce .nav-link:hover {
-  color: #1B1B1B;
+  color: #414042;
 }
 
 .navbar-b.navbar-trans .nav-link:hover:before,
@@ -564,7 +564,7 @@ a:hover {
 }
 
 .navbar-b.navbar-reduce .navbar-toggler span {
-  background-color: #1B1B1B;
+  background-color: #414042;
 }
 
 .navbar-b .navbar-brand {
