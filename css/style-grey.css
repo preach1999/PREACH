@@ -255,6 +255,7 @@ a:hover {
 }
 /* Logo styles */
 .logo {
+  border-radius: 2px;
   max-width: 35px;
   margin-right: 4px;
   margin-bottom: 25px;
